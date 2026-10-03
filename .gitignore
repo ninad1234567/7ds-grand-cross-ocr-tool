@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -152,10 +153,25 @@ activemq-data/
 # Environments
 .env
 .envrc
+=======
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Database & local user data
+*.db
+*.sqlite3
+test_*.db
+
+# Environments
+.env
+>>>>>>> 1848eb2 (Initial commit: 7DS Grand Cross OCR Cataloging Tool)
 .venv
 env/
 venv/
 ENV/
+<<<<<<< HEAD
 env.bak/
 venv.bak/
 
@@ -218,3 +234,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+
+# System / IDE
+.vscode/
+.idea/
+*.log
+>>>>>>> 1848eb2 (Initial commit: 7DS Grand Cross OCR Cataloging Tool)
